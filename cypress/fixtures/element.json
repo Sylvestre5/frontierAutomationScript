@@ -1,0 +1,13 @@
+{
+  "emailBox": "input[name='email']",
+  "emailDataBlank": "",
+  "emailDataWrongEmail": "text.mail",
+  "emailData": "sylvestreanderson5@gmail.com",
+  "submitButton": "button[type='submit']",
+  "saveButton": "button[type='submit']"
+  
+}
+
+
+
+
